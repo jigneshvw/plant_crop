@@ -16,3 +16,5 @@ Three stages of plant crop project:
 ~ Linux based C-panel for hosting,
 ~ Flask (api build and connection), etc
 
+NOTE: Few programming and SQL files are not added here due to security purpose of code and project, also url/port is limited to localhost.
+
