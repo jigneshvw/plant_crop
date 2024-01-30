@@ -2,7 +2,7 @@
 Three stages of plant crop project: 
 1) predict disease using normal image, 
 2) predict growth stage, 
-3) predict disease using thermal image
+3) predict disease using thermal image and color pattern identification
 
 # More details:
 1) Plant disease and deficiency prediction is done using the RGB (visual) leaf image data of plant/crop. Based on trained model using custom model with pytorch and CNN architecture (keras and tensorflow), multi layered model is designed that is trained on image dataset. Once deployed, the model should be able to detect and identify type of disease based on plant leaf with the distance metric (accuracy). 
